@@ -6,34 +6,13 @@
 
 ## 🎓 About Me
 
-- 🏫 **B.Tech Computer Technology** student at **Yeshwantrao Chavan College of Engineering, Nagpur** (2022-2026)
-- 💼 Passionate about **Full Stack Development** and **AI/ML Applications**
-- 🌟 Building innovative solutions for real-world problems
+Computer Technology student passionate about full-stack development and AI/ML integration.
+
+- 🏫 **B.Tech Computer Technology** at **YCCE, Nagpur** (2022-2026)
+- 💻 **Currently Working On:** AI-powered web applications and disaster response systems
+- 🌱 **Learning:** Advanced React patterns, AI/ML integration, Cloud deployment
 - 📍 Based in **Nagpur, Maharashtra, India**
-- 📧 Reach me at: **bhusari.ayush22@gmail.com**
-- 📱 Contact: **+91-9890545892**
-
-## 🚀 Featured Projects
-
-### 🌡️ [ResilienceAI - AI Disaster Response Platform](https://github.com/Ayushbhusari22/ResilienceAI)
-> An AI-native disaster prediction and visualization platform
-
-- **Tech Stack:** React.js, Tailwind CSS, Python, Chart.js, Leaflet Maps
-- **Features:** 
-  - 🗺️ Dynamic heatwave visualization with animated map markers
-  - 🌐 Real-time data integration (OpenWeather & Ambee APIs)
-  - 🤖 AI/ML models for disaster prediction (heatwaves & floods)
-  - 📊 Interactive dashboards and geospatial tracking
-
-### 🏨 [Restly - Hotel & Villa Booking Platform](https://github.com/Ayushbhusari22/Restly)
-> Full-stack booking platform with real-time availability
-
-- **Tech Stack:** Node.js, Express.js, MongoDB, JWT
-- **Features:**
-  - 🔐 Secure user authentication and session management
-  - 📅 Real-time booking and availability system
-  - 🏠 Complete listing and booking management
-  - 👤 User profile and booking history
+- 💬 Open to collaboration and interesting conversations!
 
 ## 💻 Tech Stack
 
