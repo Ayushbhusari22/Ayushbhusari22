@@ -36,9 +36,9 @@ Computer Technology student passionate about full-stack development and AI/ML in
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushbhusari22&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushbhusari22&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushbhusari22&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushbhusari22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 ## 🤝 Let's Connect!
