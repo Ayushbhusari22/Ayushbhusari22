@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ayush Vinod Bhusari
+# Hi there! 👋 I'm Ayush Bhusari
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Computer+Technology+Student;Full+Stack+Developer;AI+%26+Web+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -50,18 +50,8 @@ Computer Technology student passionate about full-stack development and AI/ML in
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushbhusari22&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushbhusari22&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-## 🏆 Achievements & Certifications
-
-- 🎓 **Fundamentals of Java Programming** - Coursera
-- 🗃️ **Databases and SQL for Data Science** - Coursera
-- 💻 **Full Stack Development** Projects
 
 ## 🌱 Currently Learning
 
@@ -95,8 +85,6 @@ Computer Technology student passionate about full-stack development and AI/ML in
 
 <div align="center">
   
-*"Code is poetry written in logic"* ✨
-
 **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** 🚀
 
 </div>
